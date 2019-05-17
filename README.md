@@ -1,2 +1,3 @@
 # AntiDDOS
-Anti-DDOS
+
+$ ~ php Firewall.php
